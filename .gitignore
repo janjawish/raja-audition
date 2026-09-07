@@ -1,0 +1,29 @@
+# Local configuration and credentials
+/config/config.php
+.env
+.env.*
+!.env.example
+
+# Runtime data: never publish patient data, exports, backups, or uploads
+/backups/
+/uploads/
+/storage/
+*.sql.bak
+*.dump
+*.sqlite
+*.sqlite3
+*.zip
+*.7z
+*.tar
+*.gz
+*.pdf
+*.xlsx
+*.xls
+
+# Logs and editor files
+*.log
+php_error_log
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

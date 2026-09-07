@@ -1,0 +1,3 @@
+NOM;Prénom;ORDO (Oui/Non);DATE ORDO;MUTUELLE / CSS;DATE APPAREILLAGE;TOTAL (TTC);PEC Faite;PEC Faite le;FACTURER À PARTIR DE;FACTURATION (Oui/Non);Facturation Faite le;COMMENTAIRE
+DUPONT;Camille;Oui;02/07/2026;Mutuelle exemple;05/07/2026;2150,00;Oui;06/07/2026;04/08/2026;Non;;Dossier fictif à contrôler
+LEFEBVRE;Noah;Attente;;CSS;;1850,00;Non;;;Non;;Appareil en attente
